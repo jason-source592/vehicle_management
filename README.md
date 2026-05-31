@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚗 HỆ THỐNG QUẢN LÝ XE NỘI BỘ
 ## PHP + MySQL + XAMPP
 
@@ -107,3 +108,7 @@ define('DB_NAME', 'vehicle_mgmt'); // Tên database
 3. **Báo cáo tháng** — thêm trang `reports.php` query theo tháng
 4. **API realtime** — dùng AJAX polling thay reload trang
 5. **Thông báo SMS/Zalo** — tích hợp API khi xe quá giờ về
+=======
+# vehicle_management
+vehicle_management
+>>>>>>> e8b159411672e97d91323fb4ee7515de271c7e9e
